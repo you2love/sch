@@ -1,0 +1,35 @@
+# Python download script
+download_logos.py
+
+# CSV data file
+sch_sku.csv
+
+# Logo download related files
+logos/
+logo_mapping.json
+logo_progress.json
+logo_download.log
+websites.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
